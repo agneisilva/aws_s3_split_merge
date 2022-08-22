@@ -1,0 +1,14 @@
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\bin\Release\net6.0\Shared.deps.json
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\bin\Release\net6.0\Shared.runtimeconfig.json
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\bin\Release\net6.0\Shared.dll
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\bin\Release\net6.0\Shared.pdb
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\Shared.csproj.AssemblyReference.cache
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\Shared.AssemblyInfoInputs.cache
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\Shared.AssemblyInfo.cs
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\Shared.dll
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\refint\Shared.dll
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\Shared.pdb
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\Shared.genruntimeconfig.cache
+C:\Users\agnei\source\repos\ConsoleApp1\Shared\obj\Release\net6.0\ref\Shared.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "27jxMwIyOSve724l53St8It5u31qyc2V7V+2+cXC7l5zXU1h1h721dpdn7KnUtJcwzAmDkM+GuciW/ylNEKLwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agnei\\source\\repos\\ConsoleApp1\\SplitFile\\SplitFileFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agnei\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\agnei\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\agnei\\.nuget\\packages\\awssdk.core\\3.7.12.23\\awssdk.core.3.7.12.23.nupkg.sha512",
+    "C:\\Users\\agnei\\.nuget\\packages\\awssdk.s3\\3.7.9.41\\awssdk.s3.3.7.9.41.nupkg.sha512",
+    "C:\\Users\\agnei\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.5\\microsoft.netcore.app.crossgen2.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
